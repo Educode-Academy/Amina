@@ -1,8 +1,8 @@
-body{
+body{ 
     margin: 0;
     background-color: rgb(230, 172, 182);
 }
-nav{
+nav{ 
     background-color: black;
     color: white;
     display: flex;
@@ -496,4 +496,5 @@ iframe {
     flex-direction: column;
     align-items: center;
 }
+
 
