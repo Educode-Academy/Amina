@@ -18,7 +18,6 @@ a{
 }
 .home{
     height: 100vh;
-    background-color: #022e2e;
     display: flex;
     justify-content: space-around;
 }
@@ -496,5 +495,6 @@ iframe {
     flex-direction: column;
     align-items: center;
 }
+
 
 
