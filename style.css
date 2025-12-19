@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: #022e2e;
+    background-color: rgb(230, 172, 182);
 }
 nav{
     background-color: black;
@@ -30,7 +30,7 @@ a{
     margin-top: 100px;
     width: 400px;
     height: 400px;
-    border: 5px solid orange;
+    border: 5px solid black;
     border-radius: 10%;
     overflow: hidden;
 }
@@ -48,7 +48,7 @@ img{
     font-size: 40px;
 }
 .text h1 span{
-    color: orange;
+    color: black;
 }
 .text h2{
     color: white;
@@ -70,7 +70,7 @@ img{
 .text button:hover{
     background-color: black;
     color: white;
-    border: 2px solid orange;
+    border: 2px solid black;
 }
 .about{
     display: flex;
@@ -85,7 +85,7 @@ img{
     width: 300px;
     height: 300px;
     overflow: hidden;
-    border: 2px solid orange;
+    border: 2px solid black;
 }
 .aboutimage img{
     width: 300px;
@@ -99,18 +99,18 @@ img{
     line-height: 1.5;
 }
 .abouttext p span{
-    color: orange;
+    color: black;
     font-weight: bold;
 }
 .abouttext button{
     background: none;
-    color: orange;
+    color: black;
     font-weight: bold;
     font-size: 20px;
     width: 150px;
     padding-top: 15px;
     padding-bottom: 15px;
-    border: 2px solid orange;
+    border: 2px solid black;
     border-radius: 100px;
     cursor: pointer;
     transition: .5s;
@@ -123,7 +123,7 @@ img{
 }
 .skill-title{
     text-align: center;
-    color: orange;
+    color: black;
     margin-top: 40px;
 }
 .skillParent{
@@ -220,7 +220,7 @@ img{
     justify-content: space-around;
 }
 .lang-title{
-    color: orange;
+    color: black;
     text-align: center;
     margin-top: 40px;
     font-size: 40px;
@@ -229,7 +229,7 @@ img{
     width: 300px;
     height: 300px;
     border-radius: 15px;
-    border: 5px solid orange;
+    border: 5px solid black;
 }
 .language h1{
     color: white;
@@ -246,7 +246,7 @@ img{
     justify-content: center;
 }
 .int-title{
-    color: orange;
+    color: black;
     text-align: center;
     font-size: 40px;
 }
@@ -278,13 +278,13 @@ img{
     cursor: pointer;
 }
 .cont-title{
-    color: orange;
+    color: black;
     text-align: center;
     font-size: 40px;
     margin-top: 50px;
 }
 .contactme .card:hover{
-    background-color: orange;
+    background-color: black;
     color: black;
 }
 .details{
@@ -293,7 +293,7 @@ img{
 }
 details{
     color: white;
-    border: 2px solid orange;
+    border: 2px solid black;
     width: 30%;
     margin: auto;
     margin-top: 80px;
@@ -303,7 +303,7 @@ details{
     overflow: hidden;
 }
 details p{
-    color: orange;
+    color: black;
 }
 .table{
     width: 50%;
@@ -311,7 +311,7 @@ details p{
     margin-top: 50px;
 }
 .table h1{
-    color: orange;
+    color: black;
     text-align: center;
 }
 table{
@@ -336,7 +336,7 @@ footer h2{
     padding-top: 15px;
 }
 footer h2 span{
-    color: orange;
+    color: black;
 }
 .loginform{
     display: flex;
@@ -347,13 +347,13 @@ footer h2 span{
 form{
     background-color: white;
     padding: 70px;
-    border: 5px solid orange;
+    border: 5px solid black;
     border-radius: 8px;
     width: 25%;
 }
 form h1{
     font-size: 25px;
-    color: orange;
+    color: black;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -496,3 +496,4 @@ iframe {
     flex-direction: column;
     align-items: center;
 }
+
